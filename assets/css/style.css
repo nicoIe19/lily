@@ -123,7 +123,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(13, 255, 0, 0.85);
+  background: rgba(10, 198, 0, 0.85);
   padding: 10px 0;
 }
 
@@ -232,8 +232,8 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #20d700;
-  border-color: #41ff17;
+  background: #1a9505;
+  border-color: #2b9e11;
 }
 
 .navbar>ul>li>.getstarted:before {
@@ -275,7 +275,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #32ff17;
+  color: #1a8e0b;
 }
 
 .navbar .dropdown:hover>ul {
@@ -371,7 +371,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #4dff17;
+  color: #1e620a;
 }
 
 .navbar-mobile .getstarted,
@@ -406,7 +406,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #59ff17;
+  color: #30870d;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -427,7 +427,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(12, 74, 0, 0.7);
+  background: rgba(13, 75, 0, 0.7);
   position: absolute;
   bottom: 0;
   top: 0;
