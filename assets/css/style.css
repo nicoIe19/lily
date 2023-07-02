@@ -1437,9 +1437,6 @@ section {
   border-radius: 4px;
 }
 
-.contact .php-email-form button[type=submit]:hover {
-  background: #5ce90a;
-}
 
 @keyframes animate-loading {
   0% {
@@ -1450,6 +1447,7 @@ section {
     transform: rotate(360deg);
   }
 }
+
 
 /*--------------------------------------------------------------
 # Breadcrumbs
