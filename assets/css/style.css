@@ -9,7 +9,7 @@ body {
 }
 
 a {
-  color: #70ff70;
+  color: #00ac06;
   text-decoration: none;
 }
 
@@ -1581,9 +1581,8 @@ section {
   transition: 0.3s;
 }
 
-/* button */
+/* button */ 
 
-button  {
-  color: #00ac06;
-  background-color: rgb(228, 228, 228);
+button > a {
+  color: black;
 }
