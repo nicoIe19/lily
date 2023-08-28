@@ -273,3 +273,10 @@
   new PureCounter();
 
 })()
+
+
+var init = function()
+{
+    requestAnimationFrame(init);
+    update();
+}
