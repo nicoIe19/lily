@@ -9,6 +9,11 @@ body {
   
 }
 
+#gcr {
+  font-size: 54px;
+  color: white;
+}
+
 a {
   color: #00ac06;
   text-decoration: none;
