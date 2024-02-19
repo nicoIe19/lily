@@ -1,10 +1,30 @@
+.map {
+  margin: 100px;
+}
+
+.locs {
+  height: 400px;
+  width: 500px;
+}
+.map #locs {
+  list-style: none;
+  padding: 0;
+}
+
+
+
+iframe {
+  display: block;
+  margin-left: auto;
+  float: right;
+}
 
 
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Gaegu';
   color: #217d21;
   
 }
@@ -30,7 +50,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Gaegu';
 }
 
 /*--------------------------------------------------------------
@@ -232,8 +252,8 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #1a9505;
-  border-color: #2b9e11;
+  background: #43b42c;
+  border-color: #43b42c;
 }
 
 .navbar>ul>li>.getstarted:before {
@@ -473,8 +493,8 @@ h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #2eff17;
-  border: 2px solid #17ff83;
+  background: #43b42c;
+  border: 2px solid #43b42c;
 }
 
 #hero .btn-get-started:hover {
@@ -647,7 +667,7 @@ section {
 
 .about .content ul i {
   font-size: 24px;
-  color: #3eff17;
+  color: #43b42c;
   position: absolute;
   left: 0;
   top: -2px;
